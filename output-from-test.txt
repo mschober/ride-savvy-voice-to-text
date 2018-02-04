@@ -1,0 +1,4 @@
+(mikeschober)-(jobs:0)-(~/code/home/android/ride-savvy-voice-to-text) (master)
+(! 885)-> node make-voice-request.js 
+
+Transcription: I want to test a voice to speech tool set
