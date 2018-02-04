@@ -45,3 +45,7 @@ Install ffmpeg
 ```
 brew install ffmpeg
 ```
+
+Setup a google console project for voice to text
+Add a CC for billing
+Download your key as json
